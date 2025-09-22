@@ -77,3 +77,41 @@ print(f"Parole uniche: {uniche}")
 liste = [[1, 2, 3], [3, 4, 5], [6, 7]]
 unione = set().union(*map(set, liste))
 print(f"Unione di liste: {unione}")
+
+a = {'Anna','Luca', 'Marco'}
+b = {'Luca', 'Sara', 'Marco'}
+print( f'Entrambi: {a & b}')
+print(f'solo in a: {a - b} ')
+print(f'totali unici: {len(a ^ b)}')
+
+import random
+numeri = {random.randint(1,20) for _ in range(10)}
+print(f"Numeri casuali: {numeri}")
+
+frase = 'ciao come stai ciao tutto bene'
+parole = frase.split()
+conteggio = {}
+for p in parole:
+    conteggio[p] = conteggio.get(p, 0) + 1
+print(f"Conteggio parole: {conteggio}")
+
+d = {'a': 1, 'b': 2, 'c': 3}
+inverso = {v: k for k, v in d.items()}
+print(f"Dizionario inverso: {inverso}")
+
+chiavi = ['nome', 'eta', 'citta']
+valori = ['Anna', 25, 'Roma']
+d = dict(zip(chiavi, valori))
+print(f"Dizionario da liste: {d}")
+
+parola = ['ciao', 'come', 'va', 'oggi']
+gruppi = {}
+for p in parola:
+    gruppi.setdefault(len(p), []).append(p)
+print(f"Parole raggruppate per lunghezza: {gruppi}")    
+
+testo = 'programmazione'
+freq = {}
+for c in testo:
+    freq[c] = freq.get(c, 0) + 1
+print(f"Frequenza caratteri: {freq}")
