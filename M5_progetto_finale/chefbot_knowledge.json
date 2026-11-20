@@ -1,0 +1,220 @@
+{
+  "baklava": {
+    "ingredients": [
+      "phyllo dough",
+      "walnuts",
+      "pistachios",
+      "butter",
+      "honey",
+      "sugar syrup",
+      "cinnamon"
+    ],
+    "serving": "1 piece (about 60 g)",
+    "calories_kcal": 250,
+    "description": "Turkish layered pastry made of thin phyllo sheets filled with chopped nuts and soaked in sweet honey syrup.",
+    "mood": "sweet, honey, nutty, dessert"
+  },
+  "churros": {
+    "ingredients": [
+      "flour",
+      "water",
+      "butter",
+      "eggs",
+      "sugar",
+      "cinnamon",
+      "frying oil"
+    ],
+    "serving": "3 churros (about 100 g)",
+    "calories_kcal": 350,
+    "description": "Spanish fried dough sticks, crispy outside and soft inside, rolled in cinnamon sugar and dipped in hot chocolate.",
+    "mood": "sweet, fried, crispy, dessert, snack"
+  },
+  "tiramisu": {
+    "ingredients": [
+      "ladyfingers",
+      "mascarpone",
+      "eggs",
+      "sugar",
+      "espresso coffee",
+      "cocoa powder"
+    ],
+    "serving": "1 slice (about 150 g)",
+    "calories_kcal": 450,
+    "description": "Italian creamy dessert of coffee-soaked ladyfingers layered with mascarpone cream and dusted with cocoa.",
+    "mood": "sweet, creamy, coffee, dessert"
+  },
+  "escargots": {
+    "ingredients": [
+      "land snails",
+      "butter",
+      "garlic",
+      "parsley",
+      "shallots",
+      "white wine"
+    ],
+    "serving": "6 snails with garlic butter",
+    "calories_kcal": 300,
+    "description": "French delicacy of snails baked in their shells with garlic and parsley butter, an unusual and exotic appetizer.",
+    "mood": "weird, exotic, adventurous, unusual, garlic"
+  },
+  "takoyaki": {
+    "ingredients": [
+      "wheat flour batter",
+      "diced octopus",
+      "tempura scraps",
+      "pickled ginger",
+      "green onion",
+      "takoyaki sauce",
+      "mayonnaise",
+      "bonito flakes"
+    ],
+    "serving": "6 balls (about 150 g)",
+    "calories_kcal": 280,
+    "description": "Japanese street food: hot round batter balls filled with octopus, topped with savory sauce, mayo and dancing bonito flakes.",
+    "mood": "street food, weird, exotic, adventurous, octopus, hot"
+  },
+  "poutine": {
+    "ingredients": [
+      "french fries",
+      "cheese curds",
+      "brown gravy"
+    ],
+    "serving": "1 portion (about 350 g)",
+    "calories_kcal": 740,
+    "description": "Canadian comfort food of crispy fries topped with squeaky cheese curds and hot brown gravy, heavy and indulgent.",
+    "mood": "heavy, cheesy, comfort food, hot, fried"
+  },
+  "ceviche": {
+    "ingredients": [
+      "raw white fish",
+      "lime juice",
+      "red onion",
+      "chili pepper",
+      "coriander"
+    ],
+    "serving": "1 bowl (about 200 g)",
+    "calories_kcal": 200,
+    "description": "Peruvian dish of raw fish cured in citrus juice with onion, chili and coriander, served cold, zesty and light.",
+    "mood": "fresh, light, cold, summer, raw fish, citrus"
+  },
+  "pho": {
+    "ingredients": [
+      "rice noodles",
+      "beef broth",
+      "thinly sliced beef",
+      "star anise",
+      "cinnamon",
+      "fresh herbs",
+      "bean sprouts",
+      "lime"
+    ],
+    "serving": "1 bowl (about 700 g)",
+    "calories_kcal": 450,
+    "description": "Vietnamese hot noodle soup with an aromatic beef broth, rice noodles and herbs, warming and comforting.",
+    "mood": "warm, hot soup, cozy, winter, comforting"
+  },
+  "bibimbap": {
+    "ingredients": [
+      "steamed rice",
+      "sauteed vegetables",
+      "beef",
+      "fried egg",
+      "gochujang chili paste",
+      "sesame oil"
+    ],
+    "serving": "1 bowl (about 500 g)",
+    "calories_kcal": 600,
+    "description": "Korean mixed rice bowl topped with colorful vegetables, beef, a fried egg and spicy chili paste.",
+    "mood": "spicy, healthy, colorful, rice bowl"
+  },
+  "fish_and_chips": {
+    "ingredients": [
+      "battered cod",
+      "potatoes",
+      "frying oil",
+      "malt vinegar",
+      "salt",
+      "tartar sauce"
+    ],
+    "serving": "1 portion (about 400 g)",
+    "calories_kcal": 850,
+    "description": "British pub classic of deep-fried battered fish with thick chips, crispy, salty and filling.",
+    "mood": "fried, crispy, salty, heavy, pub food"
+  },
+  "tacos": {
+    "ingredients": [
+      "corn tortillas",
+      "seasoned meat",
+      "onion",
+      "coriander",
+      "salsa",
+      "lime"
+    ],
+    "serving": "3 tacos (about 300 g)",
+    "calories_kcal": 500,
+    "description": "Mexican street food of soft corn tortillas filled with seasoned meat, fresh salsa, onion and coriander, spicy and colorful.",
+    "mood": "spicy, street food, colorful, party"
+  },
+  "samosa": {
+    "ingredients": [
+      "pastry dough",
+      "potatoes",
+      "peas",
+      "onion",
+      "cumin",
+      "garam masala",
+      "chili pepper",
+      "frying oil"
+    ],
+    "serving": "2 pieces (about 120 g)",
+    "calories_kcal": 310,
+    "description": "Indian fried triangular pastry stuffed with spiced potatoes and peas, crunchy and fragrant.",
+    "mood": "fried, crispy, spicy, vegetarian, snack"
+  },
+  "greek_salad": {
+    "ingredients": [
+      "tomatoes",
+      "cucumber",
+      "red onion",
+      "feta cheese",
+      "kalamata olives",
+      "olive oil",
+      "oregano"
+    ],
+    "serving": "1 bowl (about 250 g)",
+    "calories_kcal": 250,
+    "description": "Refreshing Greek salad of raw crunchy vegetables, feta cheese and olives, cold, light and healthy.",
+    "mood": "fresh, light, cold, summer, healthy, vegetarian"
+  },
+  "falafel": {
+    "ingredients": [
+      "chickpeas",
+      "onion",
+      "garlic",
+      "parsley",
+      "coriander",
+      "cumin",
+      "frying oil"
+    ],
+    "serving": "5 balls (about 100 g)",
+    "calories_kcal": 330,
+    "description": "Middle Eastern deep-fried balls of ground chickpeas and herbs, vegetarian, crunchy outside and served in pita with tahini.",
+    "mood": "vegetarian, fried, crispy, street food"
+  },
+  "donuts": {
+    "ingredients": [
+      "flour",
+      "sugar",
+      "eggs",
+      "milk",
+      "yeast",
+      "butter",
+      "sugar glaze",
+      "sprinkles"
+    ],
+    "serving": "1 glazed donut (about 70 g)",
+    "calories_kcal": 260,
+    "description": "American ring-shaped fried sweet dough covered with sugary glaze and colorful sprinkles.",
+    "mood": "sweet, sugary, fun, colorful, snack"
+  }
+}
